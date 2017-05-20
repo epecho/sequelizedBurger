@@ -1,0 +1,36 @@
+body {
+  color: white;
+  background-color: #202833;
+  background-image: url(../img/logo.png);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  padding-top: 200px;
+}
+
+button {
+  border: none;
+  width: 80px;
+  height: 80px;
+  background-color: inherit;
+  background-image: url(../img/icon2.png);
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+}
+
+#ca {
+  background-color: none;
+  border: 1px;
+  color: black;
+}
+
+#add {
+  color: black;
+  background-color: none;
+}
